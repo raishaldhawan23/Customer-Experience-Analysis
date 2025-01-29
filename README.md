@@ -7,7 +7,7 @@ This project focuses on analyzing customer feedback to uncover actionable insigh
 The project includes a detailed analysis of customer reviews, sentiment distribution, and key themes, along with the calculation of the Net Promoter Score (NPS). The insights generated are aimed at assisting companies in optimizing their customer experience strategies.
 
 ## Project Structure
-- Customer_Feedback_Data.csv: Contains structured customer feedback data, including review scores, text reviews, and sentiment categories.
+- uber_reviews_without_reviewid.csv: Contains customer feedback data, including review scores, text reviews, and sentiment categories.
 - Customer_Experience_Analysis.ipynb: The primary Jupyter Notebook file containing the Python code for data analysis, sentiment analysis, and visualization.
 - README.md: This document provides an overview of the project, repository structure, and instructions for running the analysis.
 
